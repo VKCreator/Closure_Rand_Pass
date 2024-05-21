@@ -12,4 +12,4 @@ def set_generator_random_password(psw_chars, min_length, max_length):
 if __name__ == '__main__':
     rnd = set_generator_random_password("qwertyuiopasdfghjklzxcvbnm0123456789!@#$%&*", 5, 20)
     print(rnd())
-
+#
